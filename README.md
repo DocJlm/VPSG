@@ -29,7 +29,9 @@ In this repository, you will find contributions from various teams working on De
 
 ## Git Collaborative Development Guide
 
+
 <img src="assets/git.png" height="450" width = "600"/>
+
 
 Note: Network Issues When Using Git Clone
 I’ve noticed an issue when using git clone on campus networks: both HTTP and SSH fail to work in certain cases. However, when switching to a personal hotspot, SSH works, but HTTP still doesn't.
@@ -107,6 +109,7 @@ Below, I will provide a tutorial from two perspectives: non-collaborators and co
 
 ### Non-Collaborators
 
+
 #### 1. Fork the Repository
 First, click the "Fork" button at the top right corner of the repository page to fork the repository to your own GitHub account.
 
@@ -148,3 +151,5 @@ If you cannot make code changes but have a suggestion or idea, you can create an
 
 ### Collaborators
 As a collaborator, you can directly clone the repository, create a branch, make changes, and push them to the remote repository, followed by creating a pull request for review and merging.
+
+
