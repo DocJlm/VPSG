@@ -1,4 +1,4 @@
-# VPSG Research Projects: Papers, Code, and Resources  ![vpsg badge](https://img.shields.io/badge/VPSG-Visual_Perception_and_Security_Group-orange?logo=cloud&logoColor=white)
+# VPSG Research Projects: Computer Vision Papers, Code, and Resources  ![vpsg badge](https://img.shields.io/badge/VPSG-Visual_Perception_and_Security_Group-orange?logo=cloud&logoColor=white)
 
 
 <img src="assets/VPSG.png" height="450" width = "600"/>
@@ -13,9 +13,15 @@ In this repository, you will find contributions from various teams working on De
 
 - [Git Collaborative Development Guide](#git-collaborative-development-guide)
 
+- [Learning Resources](#learning-resources)
 
+- [CCF Recommended Journals and Conferences](#ccf-recommended-journals-and-conferences)
 
+- [Recommended Personal Websites](#recommended-personal-webset)
 
+- [Deepfake Detection](#deepfake-detection)
+
+- [Useful Diagramming Tools](#useful-diagramming-tools)
 
 
 
@@ -30,7 +36,7 @@ In this repository, you will find contributions from various teams working on De
 ## Git Collaborative Development Guide
 
 
-<img src="assets/git.png" height="450" width = "600"/>
+<img src="assets/git.png" height="450" width = "600"/><br>
 
 
 Note: Network Issues When Using Git Clone
@@ -152,4 +158,158 @@ If you cannot make code changes but have a suggestion or idea, you can create an
 ### Collaborators
 As a collaborator, you can directly clone the repository, create a branch, make changes, and push them to the remote repository, followed by creating a pull request for review and merging.
 
+## Learning Resources
 
+<img src="assets/skip.png" height="450" width = "600"/><br>
+
+Although deep learning is vast and challenging, beginners often find themselves lost, not knowing where to start. Starting from scratch can take a lot of time, so the best solution is to learn through practice. However, we cannot ignore the importance of a solid foundation. We should not rush and skip the fundamentals.
+
+### Recommended Book:
+- **Dive into Deep Learning** by Li Mu  
+  [GitHub Link](https://github.com/d2l-ai/d2l-zh)
+
+## Recommended Video Courses on Deep Learning:
+
+- **Stanford 2021 Fall: Practical Machine Learning (Chinese)**:
+  - [Watch the course](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=28144)
+  
+- **Dive into Deep Learning - PyTorch Version**:
+  - [Watch the course](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+
+- **Li Mu’s Research Paper Reading Videos**:
+  - [Watch Li Mu's research papers video](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
+
+- **Tutorials and Blogs**:
+  - [Medium - Towards Data Science](https://towardsdatascience.com/)
+  - [Kaggle Learn](https://www.kaggle.com/learn)
+  - [PyImageSearch - Practical Computer Vision](https://pyimagesearch.com/)
+
+
+These high-quality resources will help you understand the core concepts of deep learning and enable you to gain practical skills more quickly. Remember, a solid foundation is key to progressing in deep learning effectively.
+
+
+
+## CCF Recommended Journals and Conferences
+### Preface: The Importance of Reading Top Journals and Conferences<br>
+
+
+<img src="assets/CVPR.png" height="450" width = "600"/><br>
+
+
+In academic research, choosing to read high-quality journals and conference papers is crucial to improving one’s academic level and research ability. Particularly when you dive deeper into a specific field, reading papers from top-tier journals and conferences will help you understand the latest developments and prevent you from wasting time on lower-quality publications. Leading journals and conferences are often at the forefront of innovation, and the papers they publish typically represent the latest advancements and best practices in the field. Therefore, reading these papers not only helps you understand key issues in the field but also assists in finding innovative points for your own research.
+
+Below are some recommended high-quality journals and conferences, sorted according to CCF (China Computer Federation) rankings, for your reference:
+
+- CCF Recommended List: [CCF Official Site](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+- Journal Database: [LetPub Journal Database](http://www.letpub.com.cn/index.php?page=journalapp)
+- Huiban CCF Query: [Huiban CCF Query](http://www.myhuiban.com/)
+- CCF Conference Deadlines: [CCF Conference Deadlines](https://ccfddl.github.io/)
+
+### Tier 1: Top Journals and Conferences (Including all CCF-A journals and conferences, IEEE/ACM Trans)
+
+#### Recommended Journals:
+- **IEEE Transactions on Pattern Analysis and Machine Intelligence** (Tier 1, CCF-A)
+- **IEEE Transactions on Image Processing** (Tier 1, CCF-A)
+- **IEEE Transactions on Information Forensics and Security** (Tier 1, CCF-A)
+- **IEEE Transactions on Multimedia** (Tier 1, CCF-B)
+- **IEEE Transactions on Circuits and Systems for Video Technology** (Tier 1, CCF-B)
+
+#### Recommended Conferences:
+- **IEEE Conference on Computer Vision and Pattern Recognition** (CVPR)
+- **International Conference on Computer Vision** (ICCV)
+- **Conference on Neural Information Processing Systems** (NeurIPS)
+- **International Conference on Machine Learning** (ICML)
+- **AAAI Conference on Artificial Intelligence** (AAAI)
+- **ACM Multimedia** (MM)
+- **International Joint Conference on Artificial Intelligence** (IJCAI)
+
+### Tier 2: Authoritative Journals and Conferences (Including ordinary Chinese Academy of Sciences Tier 1 journals, CCF-B journals or conferences)
+
+#### Recommended Journals:
+- **Information Science** (Tier 1, CCF-B)
+- **Pattern Recognition** (Tier 1, CCF-B)
+- **Information Fusion** (Tier 1)
+- **Expert Systems with Applications** (Tier 1, CCF-C)
+- **Knowledge-Based Systems** (Tier 1, CCF-C)
+- **Applied Soft Computing** (Tier 1)
+- **IEEE Internet of Things Journal** (Tier 1)
+- **Computer Vision and Image Understanding** (CCF-B)
+- **Signal Processing** (Tier 2, CCF-C)
+
+#### Recommended Conferences:
+- **International Conference on Multimedia and Expo** (ICME)
+- **International Conference on Acoustics, Speech and Signal Processing** (ICASSP)
+- **ACM International Conference on Information and Knowledge Management** (CIKM)
+- **International Conference on Multimedia Retrieval** (ICMR)
+
+## Recommended Personal Websites:
+
+- [Xie Enze's Personal Website](https://xieenze.github.io/)
+- [WHAI 362's Personal Website](https://whai362.github.io/)
+- [Ye Hanjie’s Personal Website](http://www.lamda.nju.edu.cn/yehj/)
+- [Wu Peng's Personal Website](https://teacher.nwpu.edu.cn/wupeng.html)
+- [ImPlus Personal Website](http://implus.github.io/)
+- [Gao Huang's Personal Website](http://www.gaohuang.net/)
+- [DAMO CV Organization Repositories](https://github.com/orgs/damo-cv/repositories)
+- [Jian Zhang's Villa Tech Website](https://villa.jianzhang.tech/pub/)
+
+## Deepfake Detection
+### 1. **Within the Deepfake Detection Field**
+
+#### **Recommended Journals:**
+- **IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A)**:
+  - *Paper Title*: xxx <br> 
+    *Year*: 2025  
+    [GitHub Link](https://github.com/xxx)
+  - *Paper Title*: xxx <br>
+    *Year*: 2025 
+    [GitHub Link](https://github.com/xxx)
+
+- **IEEE Transactions on Image Processing (CCF-A)**:
+  - *Paper Title*: xxx <br>
+    *Year*: 2025  
+    [GitHub Link](https://github.com/xxx)
+
+#### **Recommended Conferences:**
+- **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**:
+  - *Paper Title*: xxx <br>
+    *Year*: 2025 <br> 
+    [GitHub Link](https://github.com/xxx)
+
+- **International Conference on Computer Vision (ICCV)**:
+  - *Paper Title*: xxx <br>
+    *Year*: 2025  
+    [GitHub Link](https://github.com/xxx)
+
+---
+
+### 2. **Related Fields Providing Innovation Points**
+
+#### **Recommended Journals:**
+- **Pattern Recognition (CCF-B)**:
+  - *Paper Title*: xxx <br>
+    *Year*: 2025  
+    [GitHub Link](https://github.com/xxx)
+
+
+#### **Recommended Conferences:**
+- **International Conference on Machine Learning (ICML)**:
+  - *Paper Title*: xxx  
+    *Year*: 2025  
+    [GitHub Link](https://github.com/xxx)
+
+### 3. **Awesome GitHub Repositories**
+
+Here are some fantastic GitHub repositories dedicated to Deepfake Detection and Generation:
+
+- [**Awesome Deepfakes Detection**](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection): A collection of resources on deepfake detection, including papers, tools, and datasets.
+- [**Awesome Deepfake Generation and Detection**](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection): A curated list of resources focusing on both deepfake generation and detection.
+
+## Useful Diagramming Tools
+
+- [NN-SVG](https://alexlenail.me/NN-SVG/): A tool that helps generate neural network architecture diagrams.
+- [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet): An open-source project for visualizing neural network architectures.
+- [Netron](https://github.com/lutzroeder/netron): A tool for visualizing deep learning models.
+- [Zetane Viewer](https://github.com/zetane/viewer): A tool for displaying and interacting with deep learning models.
+- [ProcessOn](https://www.processon.com/): An online diagramming tool that supports flowcharts, mind maps, etc.
+- [PyTorchViz](https://github.com/szagoruyko/pytorchviz): A tool for visualizing PyTorch models.
