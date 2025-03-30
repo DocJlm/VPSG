@@ -17,7 +17,7 @@ In this repository, you will find contributions from various teams working on De
 
 - [CCF Recommended Journals and Conferences](#ccf-recommended-journals-and-conferences)
 
-- [Recommended Personal Websites](#recommended-personal-webset)
+- [Recommended Personal Websites](#recommended-personal-websites)
 
 - [Deepfake Detection](#deepfake-detection)
 
@@ -262,7 +262,7 @@ Below are some recommended high-quality journals and conferences, sorted accordi
     *Year*: 2025  
     [GitHub Link](https://github.com/xxx)
   - *Paper Title*: xxx <br>
-    *Year*: 2025 
+    *Year*: 2025 <br>
     [GitHub Link](https://github.com/xxx)
 
 - **IEEE Transactions on Image Processing (CCF-A)**:
