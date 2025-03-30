@@ -168,7 +168,7 @@ Although deep learning is vast and challenging, beginners often find themselves 
 - **Dive into Deep Learning** by Li Mu  
   [GitHub Link](https://github.com/d2l-ai/d2l-zh)
 
-## Recommended Video Courses on Deep Learning:
+### Recommended Video Courses on Deep Learning:
 
 - **Stanford 2021 Fall: Practical Machine Learning (Chinese)**:
   - [Watch the course](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=28144)
