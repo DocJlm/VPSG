@@ -281,7 +281,7 @@ Below are some recommended high-quality journals and conferences, sorted accordi
     *Year*: 2025  
     [GitHub Link](https://github.com/xxx)
 
----
+
 
 ### 2. **Related Fields Providing Innovation Points**
 
